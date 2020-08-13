@@ -6,6 +6,7 @@ function App() {
   return (
   <div>
   <p>안녕하세요! </p>
+  <button> 안녕 </button>
   <Button Primary> hi </Button>
     <Progress percent = {33}/>
     </div>
